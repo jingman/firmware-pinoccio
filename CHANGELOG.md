@@ -1,4 +1,4 @@
-#2014073101
+#2014073101.
 
 - #####Add better sleep and awake timing resolution, now down to 16µS! (library-pinoccio)
 
